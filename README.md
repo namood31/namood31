@@ -1,4 +1,4 @@
-- 👋 <h1><i> Yo, I’m Namood </i></h1> 
+ <h1><i> Yo, I’m Namood </i></h1> 
 - 🌱 I’m currently learning fullstack <b>Web Development</b>
 - 📫 Here's my telegram: <i> @mwam31 </i> and instagram:<i> @nameless.monster.0 </i>
 
