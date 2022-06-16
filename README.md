@@ -1,5 +1,5 @@
  <h1><i> Yo, I’m Namood </i></h1> 
-- 🌱 I’m currently learning fullstack <b>Web Development</b>
+- 🌱 I’m currently learning frontend <b>Web Development</b>
 - 📫 Here's my telegram: <i> @mwam31 </i><i></i>
 
 <!---
